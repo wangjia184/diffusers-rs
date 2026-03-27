@@ -16,6 +16,7 @@ pub mod k_dpm_2_ancestral_discrete;
 pub mod k_dpm_2_discrete;
 pub mod lms_discrete;
 pub mod pndm;
+pub mod unipc_multistep;
 
 /// This represents how beta ranges from its minimum value to the maximum
 /// during training.
