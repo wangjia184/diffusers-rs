@@ -20,8 +20,7 @@ exclude = [
 anyhow = "1"
 thiserror = "1"
 regex = "1.6.0"
-tch = "0.13"
-torch-sys = { version = "0.13", features = ["download-libtorch"] }
+tch = "0.22.0"
 
 clap = { version = "4.0.19", optional = true, features = ["derive"] }
 image = { version = "0.24.6", optional = true }
